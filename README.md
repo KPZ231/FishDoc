@@ -2,6 +2,8 @@
 
 Welcome to the "Fishing Enthusiasts Website" project repository! This place is dedicated to all fishing enthusiasts who want to share their experiences, ideas, photos, and participate in discussions on the forum.
 
+![https://photos.app.goo.gl/csuLJCqEtCbdgvYe7]
+
 ## About the Project
 
 The purpose of this project is to create a website that serves as a social platform for fishing enthusiasts. Here are the main features of the project:
