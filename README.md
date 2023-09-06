@@ -2,7 +2,7 @@
 
 Welcome to the "Fishing Enthusiasts Website" project repository! This place is dedicated to all fishing enthusiasts who want to share their experiences, ideas, photos, and participate in discussions on the forum.
 
-![Hooked On Fishing](https://thumbs2.imgbox.com/2f/22/28Mzj4Ui_t.png)
+![Hooked On Fishing](https://photos.app.goo.gl/csuLJCqEtCbdgvYe7)
 
 ## About the Project
 
